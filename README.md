@@ -16,5 +16,5 @@ conda activate MAIO_g14
 Install the required Python packages:
 
 ```bash
-pip install numpy pandas xarray scipy matplotlib datetime statsmodels scikit-learn ipykernel torch torchvision torchaudio ray 
+pip install numpy pandas xarray scipy matplotlib datetime pickle statsmodels scikit-learn ipykernel torch torchvision torchaudio ray 
 ```
